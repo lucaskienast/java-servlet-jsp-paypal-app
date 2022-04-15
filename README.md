@@ -1,2 +1,2 @@
-# java-servlet-jsp-paypal-app
+# Java PayPal Servlet-Jsp App
 Java application to facilitate PayPal transactions
